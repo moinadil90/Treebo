@@ -1,0 +1,29 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="medium_margin">18dp</dimen>
+    <dimen name="top_margin">12dp</dimen>
+    <dimen name="side_margin">10dp</dimen>
+    <dimen name="padding_lef_edittext">6dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_size_large">24dp</dimen>
+    <dimen name="text_size_medium">20dp</dimen>
+    <dimen name="text_size_medium_small">18dp</dimen>
+    <dimen name="text_size_small">16dp</dimen>
+    <dimen name="text_size_small_small">14dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+
+
+    <!--GLOBAl-->
+    <dimen name="toolBarSize">50dp</dimen>
+    <dimen name="error_text_size">10sp</dimen>
+    <dimen name="edit_text_hint">10sp</dimen>
+    <dimen name="edit_text_text">14sp</dimen>
+    <dimen name="bottom_button_text">13sp</dimen>
+    <dimen name="dropdown_text">13sp</dimen>
+    <dimen name="navigation_header_text">15sp</dimen>
+    <dimen name="pedagogy_text">12sp</dimen>
+
+
+</resources>
